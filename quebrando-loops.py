@@ -9,5 +9,5 @@ linguagens = [
 for lingua in linguagens:
     if lingua == 'Ruby':
         continue
-    print(ling)
+    print(lingua)
 print('feito')
